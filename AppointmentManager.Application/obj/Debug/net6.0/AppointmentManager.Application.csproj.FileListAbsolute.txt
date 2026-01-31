@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Application\obj\Debug\net6.0\AppointmentManager.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Application\obj\Debug\net6.0\AppointmentManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Application\obj\Debug\net6.0\AppointmentManager.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Application\obj\Debug\net6.0\AppointmentManager.Application.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Application\obj\Debug\net6.0\AppointmentManager.Application.csproj.CoreCompileInputs.cache

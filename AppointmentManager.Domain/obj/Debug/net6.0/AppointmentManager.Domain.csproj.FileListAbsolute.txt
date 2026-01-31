@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\bin\Debug\net6.0\AppointmentManager.Domain.deps.json
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\bin\Debug\net6.0\AppointmentManager.Domain.dll
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\bin\Debug\net6.0\AppointmentManager.Domain.pdb
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.dll
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\refint\AppointmentManager.Domain.dll
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\AppointmentManager.Domain.pdb
+C:\Users\hp\Documents\GitHub\rendeVu\AppointmentManager.Domain\obj\Debug\net6.0\ref\AppointmentManager.Domain.dll
