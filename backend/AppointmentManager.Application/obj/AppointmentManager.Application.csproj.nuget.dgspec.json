@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {}
+    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj",
         "projectName": "AppointmentManager.Application",
-        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj"
+              "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj": {
+    "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
         "projectName": "AppointmentManager.Domain",
-        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

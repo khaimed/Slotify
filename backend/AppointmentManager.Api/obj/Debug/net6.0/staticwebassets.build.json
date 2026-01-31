@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lYc03kHGB7zcoVZr0NTkUdLTvj0zVkUs5/qLLAz7+3Q=",
+  "Source": "AppointmentManager.Api",
+  "BasePath": "_content/AppointmentManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

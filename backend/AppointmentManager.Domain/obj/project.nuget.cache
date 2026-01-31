@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrZnBW/oU8U=",
+  "dgSpecHash": "GJlI/7JdQvs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Domain\\AppointmentManager.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",

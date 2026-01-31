@@ -56,10 +56,7 @@ public class AppointmentService : IAppointmentService
         // Reload to include navigation properties if needed or just map
         // For simplicity returning mapped entity, might lack Client/Service names if not loaded
         // Let's load references
-        await _context.Entry(entity).Reference(e => e.Client).LoadAsync();
-        await _context.Entry(entity).Reference(e => e.Service).LoadAsync();
-
-        return _mapper.Map<AppointmentDto>(entity);
+        return (await GetByIdAsync(entity.Id))!;
     }
 
     public async Task<AppointmentDto?> GetByIdAsync(int id)

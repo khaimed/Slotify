@@ -4033,11 +4033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Api\\AppointmentManager.Api.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Api\\AppointmentManager.Api.csproj",
       "projectName": "AppointmentManager.Api",
-      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Api\\AppointmentManager.Api.csproj",
+      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Api\\AppointmentManager.Api.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Api\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4052,11 +4052,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {
-              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Application\\AppointmentManager.Application.csproj"
+            "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Application\\AppointmentManager.Application.csproj"
             },
-            "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj"
+            "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj"
             }
           }
         }

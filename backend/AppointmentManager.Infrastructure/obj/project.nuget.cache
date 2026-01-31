@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dS6WcdYf5o=",
+  "dgSpecHash": "l2OFuZrgVeo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Documents\\GitHub\\rendeVu\\backend\\AppointmentManager.Infrastructure\\AppointmentManager.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
